@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      darwin.gallo
+HostName                       cadmicro-el8-07.inf.ufrgs.br
+ProcessIdentifier              2681757
+ProcessCreationTime_UTC        1792088888
+ProcessCreationTime_Readable   Thu 15 Oct 2026 03:28:08 PM -03 -03
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ciexpert/darwin.gallo/CI_project/CI-EXPERT-PHASE-LOCKED-LOOP/ProjectCI/Charge_pump/symbol/symbol.oa.cdslck
+TimeEditLocked                 Wed 28 Oct 2026 12:02:14 PM -03 -03
